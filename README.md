@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bunkerdog
+- 👋 Hi, I’m @bunkerdog aka Tash
 - 👀 I’m interested in learning as much as possible in my free time lol
 - 🌱 I’m currently learning ...with the Odin project
 - 💞️ I’m looking to collaborate on ...
