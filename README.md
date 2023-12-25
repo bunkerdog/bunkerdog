@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning as much as possible in my free time!
 - 🌱 I’m currently learning ...with the Odin project
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...franknfurter2002@protonmail.com or on twitter @bunkerdog1
+- 📫 How to reach me ...franknfurter2002@protonmail.com
 
 <!---
 bunkerdog/bunkerdog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
